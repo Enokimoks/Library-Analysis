@@ -20,3 +20,4 @@ I used pivot tables and charts to find patterns in the data and then created a d
 # Purpose
 This project was created as part of my **Library and Information Science studies**.  
 It shows how data analysis can help libraries understand user behavior and improve services.
+Data set used is a demoset
